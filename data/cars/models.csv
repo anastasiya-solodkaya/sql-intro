@@ -1,0 +1,516 @@
+id,maker_id,model
+1,17,Yukon XL 2500
+2,33,Sundance
+3,37,Grand Cherokee
+4,2,Suburban 1500
+5,1,Matrix
+6,35,Bronco
+7,55,A4
+8,39,LS
+9,12,Bravada
+10,22,Frontier
+11,29,Mazda3
+12,55,A3
+13,46,GranTurismo
+14,31,Blackwood
+15,24,Grand Am
+16,56,Fit
+17,51,M
+18,26,Veracruz
+19,36,S40
+20,21,SLX
+21,37,Wrangler
+22,43,Lancer
+23,33,Grand Voyager
+24,55,5000S
+25,20,911
+26,14,Esteem
+27,51,FX
+28,2,Camaro
+29,54,300C
+30,12,Silhouette
+31,2,Corvette
+32,31,Continental
+33,21,RL
+34,54,Cirrus
+35,17,Savana
+36,51,G37
+37,42,Aries
+38,2,Silverado 1500
+39,4,Defender
+40,14,SX4
+41,45,Capri
+42,26,Scoupe
+43,23,9-3
+44,25,XT
+45,36,C70
+46,9,6 Series
+47,25,Forester
+48,35,Fusion
+49,45,Milan
+50,30,Continental GTC
+51,42,Aspen
+52,34,CTS
+53,7,VUE
+54,43,Mirage
+55,52,H2 SUV
+56,25,Outback Sport
+57,29,RX-8
+58,31,Navigator L
+59,22,GT-R
+60,39,LS Hybrid
+61,55,S6
+62,16,Skylark
+63,35,Bronco II
+64,42,Avenger
+65,34,Escalade
+66,25,B9 Tribeca
+67,13,Nuova 500
+68,55,Q5
+69,30,Continental
+70,29,Familia
+71,2,Aveo
+72,20,Boxster
+73,22,240SX
+74,44,G-Class
+75,46,Quattroporte
+76,1,Camry Hybrid
+77,42,Caliber
+78,36,960
+79,56,CR-V
+80,56,Pilot
+81,24,Daewoo Kalos
+82,4,LR2
+83,22,Altima
+84,44,S-Class
+85,35,EXP
+86,54,Sebring
+87,2,Sonic
+88,42,Stealth
+89,30,Continental GT
+90,9,5 Series
+91,26,Tucson
+92,43,Outlander
+93,2,Express
+94,44,R-Class
+95,9,530
+96,35,E-Series
+97,34,Fleetwood
+98,29,Tribute
+99,29,RX-7
+100,42,Stratus
+101,2,Silverado 3500HD
+102,34,Seville
+103,4,LR3
+104,6,xD
+105,17,Suburban 2500
+106,2,Cavalier
+107,15,Sportage
+108,15,Sephia
+109,24,Bonneville
+110,36,V50
+111,21,Integra
+112,3,Golf
+113,16,LeSabre
+114,44,400E
+115,35,Escort
+116,2,Blazer
+117,2,Silverado
+118,3,Eurovan
+119,36,850
+120,37,Commander
+121,26,Sonata
+122,48,Rodeo
+123,29,MX-5
+124,17,Yukon
+125,34,XLR
+126,55,riolet
+127,42,Spirit
+128,9,Z8
+129,39,SC
+130,42,Caravan
+131,16,Enclave
+132,50,599 GTB Fiorano
+133,26,Genesis Coupe
+134,12,Achieva
+135,21,TL
+136,55,Q7
+137,42,Ram 3500
+138,42,D150
+139,56,Odyssey
+140,10,57
+141,53,XJ Series
+142,22,370Z
+143,43,GTO
+144,27,1500
+145,1,RAV4
+146,45,Tracer
+147,2,Impala
+148,9,X5 M
+149,30,Azure T
+150,3,Jetta
+151,2,Uplander
+152,20,914
+153,4,Range Rover Sport
+154,3,Passat
+155,17,3500 Club Coupe
+156,43,Mighty Max Macro
+157,35,Explorer Sport Trac
+158,56,del Sol
+159,16,Lucerne
+160,29,CX-9
+161,42,Ram 3500 Club
+162,29,Miata MX-5
+163,42,Ram Van 2500
+164,44,C-Class
+165,23,9-4X
+166,56,Prelude
+167,48,Ascender
+168,1,Solara
+169,51,EX
+170,4,Defender 90
+171,45,Sable
+172,36,XC60
+173,15,Sorento
+174,32,Murciélago
+175,53,XJ
+176,29,MX-6
+177,24,GTO
+178,1,Sienna
+179,45,Villager
+180,17,1500
+181,34,STS-V
+182,17,Sonoma Club Coupe
+183,12,Alero
+184,32,Gallardo
+185,10,Landaulet
+186,28,Metro
+187,26,Accent
+188,9,M Roadster
+189,42,Magnum
+190,45,Topaz
+191,21,ZDX
+192,24,Grand Prix
+193,20,Cayman
+194,20,944
+195,22,JUKE
+196,36,V40
+197,35,Aerostar
+198,2,Express 1500
+199,37,Liberty
+200,7,S-Series
+201,40,DBS
+202,35,Econoline E150
+203,44,CL-Class
+204,9,545
+205,9,7 Series
+206,24,Firefly
+207,3,Eos
+208,3,Fox
+209,29,MPV
+210,9,M6
+211,4,Freelander
+212,22,Maxima
+213,42,Charger
+214,44,300SD
+215,24,Firebird
+216,29,Mazda6
+217,7,L-Series
+218,2,Venture
+219,12,Toronado
+220,44,SLR McLaren
+221,50,430 Scuderia
+222,20,928
+223,20,Panamera
+224,14,XL-7
+225,54,Fifth Ave
+226,1,Xtra
+227,3,riolet
+228,17,Sonoma
+229,3,Scirocco
+230,30,Mulsanne
+231,54,Concorde
+232,2,Tahoe
+233,21,RDX
+234,54,Town & Country
+235,4,Discovery Series II
+236,35,Thunderbird
+237,1,4Runner
+238,42,Viper
+239,16,Rendezvous
+240,21,CL
+241,43,Mighty Max
+242,45,Mountaineer
+243,35,Expedition
+244,47,SM
+245,42,Ram Van B350
+246,17,3500
+247,38,Nubira
+248,49,Elan
+249,9,X3
+250,9,X6
+251,34,Catera
+252,9,525
+253,7,Aura
+254,44,500E
+255,1,Prius v
+256,25,Legacy
+257,2,Prizm
+258,25,Justy
+259,48,i-350
+260,31,Navigator
+261,29,Mazdaspeed6
+262,22,350Z
+263,17,Safari
+264,36,S70
+265,35,E350
+266,39,RX Hybrid
+267,56,Element
+268,31,MKX
+269,39,LX
+270,1,TundraMax
+271,36,C30
+272,17,Sierra 2500
+273,31,Continental Mark VII
+274,17,Envoy
+275,23,900
+276,42,Sprinter
+277,44,M-Class
+278,44,E-Class
+279,9,Z4
+280,44,SLS-Class
+281,1,Echo
+282,15,Amanti
+283,49,Elise
+284,15,Carens
+285,2,Monte Carlo
+286,51,G35
+287,31,Mark LT
+288,17,Savana 2500
+289,56,Crosstour
+290,25,Outback
+291,55,TT
+292,17,Sierra 3500
+293,18,Fortwo
+294,42,Dakota Club
+295,14,Swift
+296,15,Spectra5
+297,29,B-Series Plus
+298,56,Accord
+299,1,Tundra
+300,43,Truck
+301,35,F250
+302,16,Regal
+303,2,Silverado 3500
+304,5,Veyron
+305,15,Sedona
+306,20,Cayenne
+307,35,Probe
+308,54,New Yorker
+309,29,626
+310,24,Sunfire
+311,36,V70
+312,44,SL-Class
+313,35,F-Series
+314,1,Land Cruiser
+315,15,Optima
+316,55,4000s
+317,17,Sierra
+318,44,GL-Class
+319,25,Loyale
+320,22,Sentra
+321,55,A6
+322,3,Phaeton
+323,2,Suburban 2500
+324,22,Armada
+325,42,Ram 2500
+326,43,Endeavor
+327,43,Chariot
+328,35,Windstar
+329,7,Astra
+330,54,LeBaron
+331,34,STS
+332,54,300
+333,55,S8
+334,56,S2000
+335,55,90
+336,40,DB9
+337,12,98
+338,53,XF
+339,3,GTI
+340,31,MKS
+341,17,Sierra 1500
+342,26,Elantra
+343,2,Caprice
+344,4,Discovery
+345,2,Cruze
+346,35,Explorer
+347,45,Mariner
+348,30,Continental Flying Spur
+349,2,Suburban
+350,55,R8
+351,49,Exige
+352,53,S-Type
+353,2,Sportvan G30
+354,17,2500 Club Coupe
+355,52,H3
+356,2,Malibu
+357,31,MKZ
+358,32,Diablo
+359,17,Yukon XL 1500
+360,9,3 Series
+361,43,Montero Sport
+362,51,G
+363,28,Tracker
+364,36,S80
+365,54,PT Cruiser
+366,39,RX
+367,6,FR-S
+368,2,Traverse
+369,1,Venza
+370,39,GX
+371,2,Silverado 2500
+372,56,Insight
+373,17,Sierra 2500HD
+374,43,L300
+375,12,Intrigue
+376,1,Tacoma
+377,45,Cougar
+378,50,458 Italia
+379,43,3000GT
+380,43,Expo
+381,36,XC70
+382,6,tC
+383,48,Hombre
+384,35,Focus
+385,48,Trooper
+386,35,Mustang
+387,35,Courier
+388,17,Canyon
+389,21,NSX
+390,39,ES
+391,35,Club Wagon
+392,39,IS-F
+393,16,Rainier
+394,35,Fiesta
+395,24,Solstice
+396,4,Range Rover
+397,55,A5
+398,24,Montana SV6
+399,1,Corolla
+400,14,Equator
+401,2,G-Series 3500
+402,16,Century
+403,35,Edge
+404,42,Durango
+405,35,Ranger
+406,16,Reatta
+407,3,Touareg
+408,53,X-Type
+409,14,Aerio
+410,22,Xterra
+411,54,LHS
+412,12,Regency
+413,1,T100
+414,2,Equinox
+415,1,Camry
+416,15,Spectra
+417,29,Navajo
+418,43,Eclipse
+419,2,Silverado Hybrid
+420,2,Express 2500
+421,24,Tempest
+422,9,X6 M
+423,29,Mazdaspeed 3
+424,48,i-Series
+425,17,Savana 1500
+426,19,Phantom
+427,2,Astro
+428,43,Lancer Evolution
+429,17,Jimmy
+430,39,IS
+431,22,Pathfinder
+432,51,J
+433,45,Mystique
+434,55,S4
+435,43,Diamante
+436,24,Vibe
+437,12,Cutlass
+438,2,Lumina APV
+439,26,Azera
+440,3,CC
+441,25,Impreza
+442,7,Relay
+443,29,B-Series
+444,26,Equus
+445,16,Coachbuilder
+446,35,Taurus
+447,41,Cooper
+448,55,A8
+449,51,I
+450,42,Ram Van 3500
+451,35,LTD Crown Victoria
+452,34,DeVille
+453,35,Escape
+454,45,Grand Marquis
+455,44,W201
+456,16,Roadmaster
+457,35,Econoline E350
+458,29,929
+459,14,Grand Vitara
+460,54,300M
+461,43,Montero
+462,43,Galant
+463,22,Quest
+464,16,Park Avenue
+465,42,Ram 1500
+466,44,300TE
+467,56,CR-Z
+468,8,Mini Cooper
+469,1,Sequoia
+470,33,Voyager
+471,33,Colt Vista
+472,33,Neon
+473,35,GT500
+474,51,QX
+475,9,M5
+476,42,Neon
+477,42,Ram 2500 Club
+478,54,Prowler
+479,35,Freestar
+480,2,3500
+481,31,LS
+482,44,CLS-Class
+483,42,Grand Caravan
+484,2,Beretta
+485,56,Civic
+486,11,Roadster
+487,35,Flex
+488,24,Fiero
+489,44,600SL
+490,43,Pajero
+491,44,300D
+492,16,LaCrosse
+493,2,Lumina
+494,39,GS
+495,50,F430
+496,55,A7
+497,33,Reliant
+498,1,Prius
+499,15,Rio
+500,35,Tempo
+501,30,Arnage
+502,22,300ZX
+503,17,1500 Club Coupe
+504,35,F150
+505,22,NX
+506,24,Gemini
+507,35,Crown Victoria
+508,1,Supra
+509,26,Tiburon
+510,17,Acadia
+511,35,LTD
+512,31,Town Car
+513,35,Transit Connect
+514,24,Aztek
+515,22,Murano

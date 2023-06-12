@@ -1,0 +1,988 @@
+id,country_id,city
+1,124,Taldan
+2,91,Fraga
+3,48,Qixing
+4,19,Těšetice
+5,51,Fada N'gourma
+6,36,Rio Formoso
+7,48,Mingshui
+8,77,Aguas Verdes
+9,9,Koba
+10,9,Palecenan
+11,48,Gongnong
+12,93,Enskededalen
+13,9,Tualangcut
+14,9,Panunggangan
+15,80,Mỹ Xuyên
+16,48,Xipingle
+17,91,Negreiros
+18,97,Batangafo
+19,48,Gyangkar
+20,74,Limbuš
+21,48,Taoyuan
+22,48,Taipingxu
+23,28,Benghazi
+24,48,Shuangfeng
+25,40,Cotonou
+26,48,Wangdun
+27,121,Craigavon
+28,56,Sājūr
+29,54,Dunaivtsi
+30,36,Lençóis Paulista
+31,48,Jinzhuang
+32,16,Utmānzai
+33,123,Düsseldorf
+34,48,Maoshan
+35,9,Kotabaru
+36,48,Youcheng
+37,48,Helong
+38,48,Shunhe
+39,113,Trąbki Wielkie
+40,9,Katabu
+41,93,Katrineholm
+42,122,Gokwe
+43,118,Khon San
+44,58,Del Monte
+45,114,Dakhla
+46,41,Ashton
+47,48,Temeke
+48,71,Nueva Manoa
+49,64,Aqtoghay
+50,48,Jingzhou
+51,113,Blachownia
+52,62,Altan-Ovoo
+53,36,Paraipaba
+54,8,Catriel
+55,111,Vantaa
+56,48,Gubo
+57,118,Bang Lamung
+58,22,Konakridee
+59,36,Paranaíba
+60,117,El Alamo
+61,93,Falköping
+62,9,Mantingantengah
+63,91,Eiriz
+64,48,Dajie
+65,91,Vinha
+66,59,Yuty
+67,8,Crespo
+68,9,Urungpigang
+69,124,Ekazhevo
+70,12,Aix-en-Provence
+71,48,Yancheng
+72,12,Courbevoie
+73,124,Novospasskoye
+74,58,Inayauan
+75,98,Sandakan
+76,59,Itauguá
+77,64,Kyzylorda
+78,12,Paris 06
+79,12,Wintzenheim
+80,9,Lubuk Sikaping
+81,36,Alagoinhas
+82,19,Bílina Kyselka
+83,48,Shazhou
+84,84,Bagenalstown
+85,54,Veselynove
+86,19,Boršice
+87,80,Phúc Thọ
+88,48,Zili
+89,102,Gorno Orizari
+90,58,Pata
+91,102,Kičevo
+92,124,Zheleznogorsk
+93,16,Chor
+94,14,Mao
+95,9,"Laikit, Laikit II (Dimembe)"
+96,32,Kwakoa
+97,58,New Cebu
+98,56,Kafr Kannā
+99,19,Chyňava
+100,124,Svecha
+101,113,Płoniawy-Bramura
+102,68,Philadelphia
+103,117,Reforma
+104,48,Chahe
+105,36,Aracruz
+106,58,Paiisa
+107,124,Solomenskoye
+108,111,Koukkuniemi
+109,30,København
+110,48,Kuntong
+111,4,Asan-Maina Village
+112,3,Abejorral
+113,60,"Palmas De Gran Canaria, Las"
+114,12,Épinal
+115,73,Lordegān
+116,68,Tampa
+117,78,Yandev
+118,58,Morong
+119,113,Kowale
+120,72,Suva Reka
+121,45,Tartu
+122,77,Cotaparaco
+123,54,Kostyantynivka
+124,82,Jaša Tomić
+125,6,Ḩalḩūl
+126,16,Haveli
+127,9,Maredakalada
+128,113,Polkowice
+129,101,Lefkímmi
+130,48,Sanqu
+131,9,Rancabelut
+132,68,Akron
+133,91,Gandra
+134,48,Hong’an
+135,59,Unión
+136,93,Örebro
+137,98,Bachok
+138,93,Hägersten
+139,99,Caucaguita
+140,118,Mae Ramat
+141,48,Narong
+142,10,Idfu
+143,93,Svalöv
+144,48,Gedian
+145,62,Erdenet
+146,101,Évosmos
+147,58,Basicao Coastal
+148,36,Passo Fundo
+149,12,Nancy
+150,107,Freire
+151,113,Bielawy
+152,99,Chaguaramas
+153,48,Hanyin Chengguanzhen
+154,115,Sandy Bay
+155,48,Tiannan
+156,124,Petro-Slavyanka
+157,9,Karanglo
+158,3,Palmar de Varela
+159,48,Shaba Zhen
+160,12,Rungis
+161,117,Emiliano Zapata
+162,58,Carpenter
+163,74,Trzin
+164,124,Peskovka
+165,19,Sokolnice
+166,9,Kedungcangkring
+167,35,Ti-n-Essako
+168,36,Limoeiro
+169,66,Pembroke
+170,48,Huangcun
+171,32,Kihangara
+172,9,Mekarjaya Satu
+173,93,Stockholm
+174,108,Abricots
+175,48,Chenqiao
+176,118,Chaloem Phra Kiat
+177,48,Doushaguan
+178,9,Sindangheula
+179,48,Maojiagang
+180,88,Kilju
+181,57,Los Palacios
+182,48,Hongtang
+183,63,Quebo
+184,124,Razumnoye
+185,118,Selaphum
+186,9,Bucu Lor
+187,71,San Carlos
+188,68,Las Cruces
+189,58,Bilad
+190,9,Bentar
+191,48,Xiabao
+192,77,Colcabamba
+193,57,Matanzas
+194,9,Selorejo
+195,8,Las Breñas
+196,50,Al Miqdādīyah
+197,89,Mādabā
+198,68,Tyler
+199,48,Jinggan
+200,9,Bulahblangaro
+201,80,Mỏ Cày
+202,113,Kęsowo
+203,3,La Virginia
+204,113,Tomaszów Mazowiecki
+205,73,Pīshvā
+206,95,Bartica
+207,48,Huangnihe
+208,24,Al Qurḩ
+209,8,Sunchales
+210,59,San Cosme y Damián
+211,58,San Miguel
+212,58,Causip
+213,48,Meiqi
+214,48,Guxi
+215,27,Tulaghi
+216,124,Kol’chugino
+217,36,Prata
+218,119,Amirdzhan
+219,10,Ziftá
+220,48,Aba
+221,9,Weepangali
+222,39,Mbouda
+223,19,Poniklá
+224,99,El Cantón
+225,58,La Roxas
+226,48,Huomachong
+227,102,Теарце
+228,48,Aoluguya Ewenke Minzu
+229,90,Pīrgaaj
+230,98,Melaka
+231,124,Korenovsk
+232,45,Kärdla
+233,91,Covas da Raposa
+234,116,Okcheon
+235,107,Concepción
+236,64,Petropavlovsk
+237,48,Changjiangbu
+238,78,Moriki
+239,48,Nijiangping
+240,39,Banyo
+241,91,Arrabal
+242,113,Ostrowite
+243,9,Kebon
+244,9,Kertorejo
+245,48,Yuanhou
+246,120,Huruta
+247,124,Vichuga
+248,66,Prince Edward
+249,78,Bununu Dass
+250,118,Phra Nakhon Si Ayutthaya
+251,9,Limboto
+252,94,Atamyrat
+253,124,Zhigulevsk
+254,31,Pas Pul
+255,12,La Valette-du-Var
+256,80,Giemdiem
+257,101,Grevená
+258,21,Tarrafal
+259,48,Yujing
+260,9,Tanagara
+261,48,Huancheng
+262,9,Kadukaung
+263,54,Tayirove
+264,12,Metz
+265,113,Herby
+266,9,Bima
+267,12,Clamart
+268,9,Naga
+269,80,Thanh Nê
+270,48,Guankou
+271,84,Longwood
+272,12,Remiremont
+273,16,Ghauspur
+274,48,Hongqi
+275,9,Kedungbulu
+276,9,Tlogosadang
+277,48,Sanjiazi
+278,108,Gonayiv
+279,36,Içara
+280,9,Sumberkenanga
+281,68,Fort Lauderdale
+282,48,Heimahe
+283,48,Shanting
+284,64,Timiryazevo
+285,78,Langtang
+286,89,Amman
+287,118,Hua Hin
+288,18,Outjo
+289,16,Miānwāli
+290,86,Oslo
+291,48,Jiangna
+292,101,Ymittos
+293,113,Radziszów
+294,36,Braço do Norte
+295,12,Saint-Quentin
+296,48,Ningzhong
+297,11,Trashigang
+298,58,Tagbina
+299,36,Piraí
+300,80,Cẩm Phả
+301,8,Del Campillo
+302,58,Kaytitinga
+303,48,Zhujiatai
+304,58,Guihing Proper
+305,3,La Ceja
+306,68,Louisville
+307,124,Ural
+308,99,Guanta
+309,118,Surin
+310,91,Pereiro
+311,88,Kusŏng
+312,39,Tiko
+313,58,Alimono
+314,9,Temperak
+315,103,Geghanist
+316,48,Haiyanmiao
+317,3,Soledad
+318,93,Åmål
+319,48,Chengdong
+320,36,Camocim
+321,9,Parakanpanjang
+322,34,Az̧ Z̧a‘āyin
+323,48,Jinhe
+324,124,Dobryanka
+325,68,El Paso
+326,37,Junglinster
+327,42,Unawatuna
+328,78,Lalupon
+329,58,Montecillo
+330,48,Wangzha
+331,48,Xiaolou
+332,36,Pinhão
+333,99,Bachaquero
+334,94,Yolöten
+335,41,Siyabuswa
+336,16,Amirabad
+337,48,Erdu
+338,101,Lárdos
+339,68,Orlando
+340,19,Ostrov
+341,124,Repnoye
+342,58,Puro
+343,85,Tilburg
+344,36,Mutum
+345,113,Józefów
+346,79,Mzuzu
+347,9,Bantar
+348,106,Velingrad
+349,36,Caxias do Sul
+350,106,Gulyantsi
+351,48,Wushan
+352,36,Jacutinga
+353,48,Huangqi
+354,9,Taman
+355,48,Lingbei
+356,48,Jiangtou
+357,124,Novoorsk
+358,8,Ciervo Petiso
+359,74,Zgornje Jezersko
+360,117,El Cerrito
+361,124,Sarmanovo
+362,80,Xom Tan Long
+363,48,Lishu
+364,124,Omsk
+365,48,Rushanzhai
+366,36,Corupá
+367,68,Oklahoma City
+368,3,Chipaque
+369,58,Hagonoy
+370,123,Berlin
+371,9,Samadua
+372,24,‘Amrān
+373,89,Ma'an
+374,33,Străşeni
+375,3,Palmira
+376,12,Lunel
+377,48,Xieba
+378,48,Shiziqiao
+379,124,Novocheboksarsk
+380,9,Awilega
+381,91,São Pedro
+382,16,Athmuqam
+383,48,Xiongshan
+384,74,Pameče
+385,48,Laoliangcang
+386,9,Lawepakam
+387,91,Alenquer
+388,3,Carmen de Viboral
+389,58,Patpata Segundo
+390,93,Skoghall
+391,48,Tieshan
+392,10,Ashmūn
+393,48,Nantai
+394,82,Požarevac
+395,12,Massy
+396,17,Paradise
+397,116,Yangsan
+398,113,Dukla
+399,109,Horad Pinsk
+400,77,Conchucos
+401,9,Ciriri
+402,124,Siva
+403,48,Xiashu
+404,9,Pasarnangka
+405,48,Yong’an
+406,19,Boskovice
+407,68,Dallas
+408,48,Xinglong
+409,113,Czarna Białostocka
+410,54,Kakhovka
+411,92,Madona
+412,23,Kanye
+413,77,Andarapa
+414,48,Dongping
+415,16,Kabīrwāla
+416,48,Shuanghe
+417,113,Lisia Góra
+418,58,De la Paz
+419,23,Mosopa
+420,9,Sukodono
+421,117,Francisco I Madero
+422,12,Paris 05
+423,18,Bagani
+424,8,Villa Castelli
+425,48,Dongxin
+426,58,Loreto
+427,58,Masarayao
+428,5,Mahébourg
+429,9,Lemahputih
+430,16,Chishtiān Mandi
+431,20,Mapusagafou
+432,90,Badarganj
+433,124,Chadan
+434,48,Chengnan
+435,118,Ban Na
+436,65,Catarina
+437,48,Xintian
+438,8,Villa Carlos Paz
+439,8,Curuzú Cuatiá
+440,68,Anchorage
+441,99,Pedraza La Vieja
+442,91,Perelhal
+443,91,Quintães
+444,48,Tangxia
+445,48,Yangchun
+446,124,Dubki
+447,3,Bagadó
+448,48,Juxing
+449,19,Zdíkov
+450,48,Tuanzhou
+451,16,Kalāt
+452,118,Rat Burana
+453,48,Yantian
+454,103,Archis
+455,9,Kamal
+456,58,Victoria
+457,46,Ngunguru
+458,36,Artur Nogueira
+459,39,Ngou
+460,8,Villa Ojo de Agua
+461,48,Hebu
+462,106,Akhtopol
+463,9,Ongabelen
+464,91,Santo André
+465,16,Hāla
+466,113,Kalety
+467,113,Łeba
+468,68,Las Vegas
+469,9,Bumirejo
+470,8,Rufino
+471,58,Calauan
+472,59,Ypacarai
+473,113,Wołczyn
+474,9,Batojaran
+475,36,Açucena
+476,60,Vitoria-Gasteiz
+477,67,Dolega District
+478,124,Nyagan
+479,48,Huaping
+480,48,Dongxi
+481,48,Mashui
+482,12,Orléans
+483,19,Dolní Sloupnice
+484,102,Ilinden
+485,70,Frashër
+486,9,Lampihung
+487,15,Graz
+488,36,Itabaiana
+489,48,Gongbuxue
+490,68,Johnson City
+491,68,Aurora
+492,91,Pombal
+493,48,Shinao
+494,48,Huangnan
+495,9,Bungur
+496,48,Longtian
+497,124,Kabakovo
+498,48,Yunxiang
+499,36,Flores da Cunha
+500,48,Daqin Tal
+501,48,Dacun
+502,58,Don Carlos
+503,124,Kiritsy
+504,19,Petrov
+505,48,Dongfeng
+506,77,Zapatero
+507,8,Santo Tomé
+508,48,Dayushu
+509,85,Nijmegen
+510,112,Goshogawara
+511,58,Taypano
+512,124,Novocherkassk
+513,124,Orekhovo-Borisovo Severnoye
+514,75,Beloha
+515,91,Granja do Tedo
+516,107,Molina
+517,88,Hoeryŏng
+518,9,Tempel
+519,48,Fucha
+520,55,Erandique
+521,113,Borzytuchom
+522,113,Nowa Sarzyna
+523,12,Boulogne-Billancourt
+524,48,Jiatou
+525,58,Larap
+526,48,Baise City
+527,112,Iwakuni
+528,124,Shchelkovo
+529,54,Kulykiv
+530,93,Heby
+531,9,Ciparay
+532,48,Haokou
+533,124,Shestakovo
+534,9,Karanganyar
+535,124,Kil’mez’
+536,48,Zhangqiang
+537,58,Bukal Sur
+538,48,Dadong’ao
+539,113,Jawornik Polski
+540,48,Dong’an
+541,8,Miramar
+542,90,Fatikchari
+543,93,Töreboda
+544,48,Tonghu
+545,113,Ursus
+546,9,Adiwerna
+547,41,Hartswater
+548,58,San Isidro
+549,91,Vila Franca da Beira
+550,48,Baziqiao
+551,86,Moss
+552,9,Sindangpanji
+553,58,MacArthur
+554,9,Kaliwates
+555,80,Sịa
+556,110,Shināş
+557,66,Ladysmith
+558,113,Jankowice
+559,80,Tân An
+560,85,Lelystad
+561,9,Sananrejo
+562,54,Krinichnaya
+563,6,Al Lubban al Gharbī
+564,48,Tanbuqiao
+565,58,Calangain
+566,1,Agadez
+567,47,Al Quţayfah
+568,12,Vitry-le-François
+569,58,Bocos
+570,48,Longzhong
+571,113,Przelewice
+572,3,Salento
+573,121,Eaton
+574,93,Huddinge
+575,58,Catbalogan
+576,58,Aurora
+577,84,Castlepollard
+578,48,Liugong
+579,98,Kuantan
+580,61,Arrah
+581,9,Parapat
+582,36,Timóteo
+583,36,Lorena
+584,9,Bilo
+585,124,Krasnokumskoye
+586,14,Bánica
+587,19,Bakov nad Jizerou
+588,78,Adani
+589,111,Punkalaidun
+590,48,Xiangjia
+591,93,Tanumshede
+592,48,Jianxincun
+593,48,Qabqir
+594,9,Tawangsari
+595,9,Bata Tengah
+596,9,Mandala
+597,64,Sayaq
+598,9,Banjarmasin
+599,68,Chandler
+600,60,Cadiz
+601,84,Athy
+602,76,Saint-Denis
+603,58,Sumilao
+604,91,Pobral
+605,118,Yan Nawa
+606,12,Cachan
+607,3,Cerinza
+608,12,Saint-Maurice-l'Exil
+609,55,El Tablón
+610,100,Wotho
+611,68,Wichita
+612,9,Atawutung
+613,62,Jargalant
+614,46,Darfield
+615,102,Prilep
+616,36,Caçapava do Sul
+617,19,Žleby
+618,3,La Tola
+619,3,San José de Miranda
+620,44,Yeniköy
+621,22,Loma
+622,113,Barwałd Górny
+623,124,Ust’ye
+624,112,Tsurugi-asahimachi
+625,9,Anin
+626,69,Kourou
+627,91,Outeiro
+628,9,Krajan Suko Kidul
+629,19,Brněnec
+630,19,Návsí u Jablunkova
+631,9,Semampirbarat
+632,117,Guadalupe
+633,64,Tasböget
+634,93,Hofors
+635,93,Lilla Edet
+636,124,Troitskoye
+637,9,Habingkloang
+638,48,Mazhonghe
+639,112,Kawagoe
+640,49,Tiztoutine
+641,58,Salingogan
+642,48,Huandiqiao
+643,12,Créteil
+644,64,Arys
+645,48,Hengli
+646,36,Três de Maio
+647,58,Panitan
+648,118,Sao Hai
+649,48,Laxiong
+650,19,Přibyslav
+651,9,Kayukembang
+652,124,Korolev
+653,58,Dugongan
+654,91,Vila do Bispo
+655,48,Puzi
+656,12,Longjumeau
+657,58,Klinan
+658,77,Tambillo
+659,107,Talca
+660,48,Anjia
+661,48,Aqqan
+662,8,Libertador General San Martín
+663,9,Watuagung
+664,48,Sangongqiao
+665,85,Apeldoorn
+666,91,Ameixoeira
+667,66,Marystown
+668,49,Goulmima
+669,48,Jiaocha
+670,78,Holma
+671,93,Kalmar
+672,113,Pamiątkowo
+673,82,Stepojevac
+674,112,Namie
+675,25,Drnje
+676,64,Ilyich
+677,48,Jiasi
+678,124,Kamenka
+679,48,Daidaon
+680,3,Guamal
+681,48,Tongmuluo
+682,109,Lahishyn
+683,91,Duas Igrejas
+684,36,Ribeirão
+685,68,Raleigh
+686,80,Ngã Bảy
+687,80,Phù Cát
+688,9,Makale
+689,36,Álvares Machado
+690,35,Niono
+691,124,Mendeleyevskiy
+692,68,Annapolis
+693,9,Larangan
+694,58,Little Baguio
+695,9,Dampek
+696,16,Toba Tek Singh
+697,112,Tokuyama
+698,3,San Andrés
+699,112,Hachiōji
+700,91,Azenhas do Mar
+701,48,E’zhou
+702,31,Khinjān
+703,8,Añatuya
+704,112,Kashihara
+705,124,Severskaya
+706,41,Paulpietersburg
+707,48,Kanshi
+708,48,Baishan
+709,48,Huangsha
+710,9,Sumberkertokrajan
+711,36,Rio Grande
+712,122,Odzi
+713,48,Daixi
+714,91,Nogueira
+715,90,Tungipāra
+716,91,Agrela
+717,48,Liqiao
+718,93,Fagersta
+719,18,Outapi
+720,58,Tungol
+721,48,Ganjiangtou
+722,78,Kishi
+723,18,Ondangwa
+724,58,Irosin
+725,104,Banbalah
+726,91,Vilar do Pinheiro
+727,3,Garagoa
+728,48,Xiatang
+729,9,Bantarpanjang
+730,93,Göteborg
+731,48,Heicheng
+732,82,Priboj
+733,9,Suwaru
+734,58,Quezon
+735,118,Tha Wang Pha
+736,36,Perdões
+737,77,Huayana
+738,91,Seixal
+739,112,Uenohara
+740,49,Tirhanimîne
+741,52,Venilale
+742,19,Havířov
+743,48,Yangxiang
+744,3,Ciudad Bolívar
+745,19,Hněvotín
+746,87,Schœlcher
+747,48,Dingqing
+748,66,Saint Andrews
+749,124,Nyurba
+750,48,Zhize
+751,124,Kama
+752,48,Fangzheng
+753,58,Maco
+754,12,Saint-Lô
+755,116,Enjitsu
+756,48,Xindian
+757,9,Leuburi
+758,43,Karavan
+759,48,Daping
+760,9,Utara
+761,9,Patenongan
+762,48,Majia
+763,101,Metsovo
+764,70,Lushnjë
+765,38,Kelo
+766,68,Kansas City
+767,9,Telagaselaba
+768,113,Golcowa
+769,48,Niejiahe
+770,116,Songgang-dong
+771,82,Putinci
+772,68,Tulsa
+773,124,Topchikha
+774,101,Drosáto
+775,73,Kahnūj
+776,12,Fresnes
+777,98,Seremban
+778,58,Rizal
+779,112,Kōnan
+780,48,Chengshan
+781,19,Nová Role
+782,9,Kaliprak
+783,9,Cibungur
+784,48,Songjianghe
+785,36,Sidrolândia
+786,83,Paôy Pêt
+787,48,Shaguotun
+788,54,Vyshneve
+789,73,Ahar
+790,113,Zbąszyń
+791,93,Värmdö
+792,82,Tršić
+793,36,Palmeira
+794,90,Nabīnagar
+795,58,Upi
+796,9,Leteki
+797,122,Shangani
+798,68,Fort Worth
+799,124,Novodvinsk
+800,9,Bagorejo
+801,78,Owo
+802,112,Hikone
+803,9,Krueng Luak
+804,9,Nusajaya
+805,48,Yangong
+806,57,La Salud
+807,58,Muladbucad
+808,9,Kampungladang
+809,19,Dolní Kounice
+810,55,Armenta
+811,48,Haikou
+812,113,Drohiczyn
+813,7,Yangambi
+814,80,Dĩ An
+815,124,Borisovka
+816,31,Paghmān
+817,41,Zastron
+818,77,Puerto Maldonado
+819,48,Baimiao
+820,48,Luxia
+821,16,Mīrpur Sakro
+822,10,Ibshawāy
+823,78,Gwaram
+824,91,Viana do Castelo
+825,68,Saginaw
+826,124,Veshnyaki
+827,45,Tabasalu
+828,84,Lusk
+829,58,Manuel Roxas
+830,48,Huayuan
+831,48,Wangdian
+832,77,Sitabamba
+833,68,Washington
+834,41,Taung
+835,121,Charlton
+836,68,Midland
+837,9,Medan
+838,12,Paris 15
+839,85,Maastricht
+840,109,Byahoml’
+841,58,Oroquieta
+842,113,Szczurowa
+843,70,Kurjan
+844,43,At-Bashi
+845,104,Tunis
+846,124,Rzhavki
+847,9,Golomunta
+848,9,Cikijing
+849,113,Skrzyszów
+850,71,Uyuni
+851,48,Bailiang
+852,67,Las Lomas
+853,36,Divinópolis
+854,93,Piteå
+855,19,Křenovice
+856,48,Jiazhuyuan
+857,118,Non Narai
+858,48,Beixin
+859,19,Žďár nad Sázavou
+860,119,Xaçmaz
+861,36,Santa Isabel
+862,9,Cendagah
+863,9,Tugusirna
+864,113,Bolesławiec
+865,48,Tianfen
+866,58,Calabaca
+867,117,Las Flores
+868,78,Ilesa
+869,118,Sukhothai
+870,9,Pasirmadang
+871,12,Arras
+872,124,Divnomorskoye
+873,9,Parakanbeusi
+874,124,Vatutino
+875,12,Tourcoing
+876,9,Kudang
+877,54,Krolevets’
+878,48,Zengguang
+879,9,Jatisari
+880,3,Pivijay
+881,73,Kermānshāh
+882,58,Marcos
+883,48,Dongsheng
+884,48,Luojiang
+885,113,Sławoborze
+886,91,Mós
+887,118,Phu Luang
+888,70,Udënisht
+889,113,Tokarnia
+890,93,Kungshamn
+891,9,Taunan
+892,91,Catujal Velho
+893,53,Chalchuapa
+894,12,Lille
+895,48,Renxian
+896,73,Bāgh-e Malek
+897,13,Oussivo
+898,77,Pacucha
+899,9,Logung
+900,48,Guanghou
+901,9,Wonorejo
+902,25,Makarska
+903,112,Toyonaka
+904,91,Figueira dos Cavaleiros
+905,2,Koumac
+906,47,Kafr Baţnā
+907,9,Rendeng
+908,48,Gaoguan
+909,105,Tulsīpur
+910,81,Grytviken
+911,9,Cingambul
+912,68,Arlington
+913,102,Crnilište
+914,48,Kongtian
+915,111,Teuva
+916,96,Governor’s Harbour
+917,58,Mulanay
+918,12,Clermont-Ferrand
+919,48,Shuangpengxi
+920,77,Huasta
+921,68,Colorado Springs
+922,54,Hola Prystan’
+923,54,Shakhtars’k
+924,9,Simpang
+925,117,Ignacio Zaragoza
+926,45,Rakvere
+927,113,Barwałd Średni
+928,102,Радолишта
+929,9,Tambulatana
+930,48,Xinwo
+931,90,Char Bhadrāsan
+932,24,Qaryat ad Da‘īs
+933,36,Itaporanga
+934,56,Kafir Yasif
+935,58,Impalutao
+936,101,Pátmos
+937,26,Vårdö
+938,93,Vetlanda
+939,9,Mliwang
+940,9,Cimaung Kidul
+941,59,Pilar
+942,9,Pringu
+943,32,Magole
+944,61,Boundiali
+945,124,Nizhnyaya Tura
+946,77,Motupe
+947,12,Marne-la-Vallée
+948,67,Los Lotes
+949,48,Shuangqiao
+950,25,Krapina
+951,36,Nova Cruz
+952,16,Lodhrān
+953,36,Arauá
+954,3,Balboa
+955,9,Kerbuyan
+956,38,Mboursou Léré
+957,41,Mahikeng
+958,113,Kamień Pomorski
+959,91,Ourentã
+960,48,Liangwa
+961,48,Changxuanling
+962,70,Skënderbegas
+963,60,Santander
+964,12,Béziers
+965,91,Gondar
+966,90,Jamālpur
+967,58,Fuerte
+968,116,Yeoju
+969,9,Rejoso
+970,124,Svetlogorsk
+971,78,Agenebode
+972,48,Hekou
+973,9,Karangranjong
+974,54,Varva
+975,124,Penza
+976,36,Toritama
+977,124,Gornorechenskiy
+978,54,Chornomors’ke
+979,66,Parrsboro
+980,31,Dowr-e Rabāţ
+981,29,Delta del Tigre
+982,124,Shlissel’burg
+983,80,Thị Trấn Thọ Xuân
+984,58,San Juan
+985,80,Cầu Giát
+986,124,Proletarsk
+987,78,Mafa
